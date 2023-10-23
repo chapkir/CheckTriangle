@@ -95,7 +95,7 @@
             // ResultLabel
             // 
             this.ResultLabel.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ResultLabel.Location = new System.Drawing.Point(36, 124);
+            this.ResultLabel.Location = new System.Drawing.Point(36, 127);
             this.ResultLabel.Name = "ResultLabel";
             this.ResultLabel.Size = new System.Drawing.Size(495, 44);
             this.ResultLabel.TabIndex = 8;
